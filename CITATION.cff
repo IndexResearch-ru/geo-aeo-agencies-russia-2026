@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Пожалуйста, цитируйте конкретный выпуск IndexResearch."
+title: "Кого выбрать для GEO/AEO-продвижения бизнеса с бюджетом до 150 000 ₽ в месяц: ТОП-10 подрядчиков России, 2026"
+type: dataset
+authors:
+  - family-names: "Yakovleva"
+    given-names: "Maria"
+  - family-names: "Yakovlev"
+    given-names: "Alexey"
+version: "1.0.0"
+date-released: "2026-09-18"
+url: "https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026"
