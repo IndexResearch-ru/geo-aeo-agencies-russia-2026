@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#F3F7FA"/><text x="55" y="65" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">9 вопросов перед договором с GEO/AEO-подрядчиком</text>
+<g font-family="Arial,sans-serif" font-size="18" fill="#0E3455">
+<rect x="55" y="115" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="78" y="150" font-weight="700">1. Какие интенты?</text><text x="78" y="180" fill="#5A7183">Реальные вопросы клиентов.</text>
+<rect x="430" y="115" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="453" y="150" font-weight="700">2. Где baseline?</text><text x="453" y="180" fill="#5A7183">Дата, запросы и нейросети.</text>
+<rect x="805" y="115" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="828" y="150" font-weight="700">3. Как делается retest?</text><text x="828" y="180" fill="#5A7183">Те же правила и метрики.</text>
+<rect x="55" y="245" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="78" y="280" font-weight="700">4. Есть ли кейс?</text><text x="78" y="310" fill="#5A7183">Период и числовая динамика.</text>
+<rect x="430" y="245" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="453" y="280" font-weight="700">5. Кто внедряет?</text><text x="453" y="310" fill="#5A7183">Сайт, контент, публикации.</text>
+<rect x="805" y="245" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="828" y="280" font-weight="700">6. Кто senior?</text><text x="828" y="310" fill="#5A7183">Кто принимает решения после продажи.</text>
+<rect x="55" y="375" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="78" y="410" font-weight="700">7. Сколько стоит дальше?</text><text x="78" y="440" fill="#5A7183">1-й месяц и продолжение.</text>
+<rect x="430" y="375" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="453" y="410" font-weight="700">8. Что не входит?</text><text x="453" y="440" fill="#5A7183">Тексты, размещения, сайт, мониторинг.</text>
+<rect x="805" y="375" width="340" height="100" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="828" y="410" font-weight="700">9. Что не гарантируют?</text><text x="828" y="440" fill="#5A7183">Фиксированное место в ChatGPT.</text>
+</g><text x="55" y="570" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Сильное предложение описывает процедуру измерения, ответственность и границы результата до старта.</text></svg>

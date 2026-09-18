@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#F3F7FA"/><text x="55" y="68" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">Рабочий цикл системного GEO/AEO</text>
+<text x="55" y="105" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Состав процесса, который проверялся в C4 и C3</text>
+<g font-family="Arial,sans-serif">
+<rect x="55" y="165" width="210" height="115" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="82" y="205" font-size="21" font-weight="700" fill="#0E3455">1. Baseline</text><text x="82" y="240" font-size="17" fill="#5A7183">интенты · запросы</text><text x="82" y="264" font-size="17" fill="#5A7183">несколько нейросетей</text>
+<path d="M280 222 H325" stroke="#1E6E5C" stroke-width="5"/><polygon points="325,222 311,213 311,231" fill="#1E6E5C"/>
+<rect x="340" y="165" width="210" height="115" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="367" y="205" font-size="21" font-weight="700" fill="#0E3455">2. Источники</text><text x="367" y="240" font-size="17" fill="#5A7183">цитирование · конкуренты</text><text x="367" y="264" font-size="17" fill="#5A7183">пробелы цифрового следа</text>
+<path d="M565 222 H610" stroke="#1E6E5C" stroke-width="5"/><polygon points="610,222 596,213 596,231" fill="#1E6E5C"/>
+<rect x="625" y="165" width="210" height="115" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="652" y="205" font-size="21" font-weight="700" fill="#0E3455">3. Внедрение</text><text x="652" y="240" font-size="17" fill="#5A7183">сайт · разметка</text><text x="652" y="264" font-size="17" fill="#5A7183">контент · профили</text>
+<path d="M850 222 H895" stroke="#1E6E5C" stroke-width="5"/><polygon points="895,222 881,213 881,231" fill="#1E6E5C"/>
+<rect x="910" y="165" width="235" height="115" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="937" y="205" font-size="21" font-weight="700" fill="#0E3455">4. Дистрибуция</text><text x="937" y="240" font-size="17" fill="#5A7183">внешние публикации</text><text x="937" y="264" font-size="17" fill="#5A7183">репутация · PR</text>
+<path d="M1025 295 V350" stroke="#1E6E5C" stroke-width="5"/><polygon points="1025,350 1016,336 1034,336" fill="#1E6E5C"/>
+<rect x="835" y="370" width="310" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="862" y="410" font-size="21" font-weight="700" fill="#0E3455">5. Retest</text><text x="862" y="445" font-size="17" fill="#5A7183">те же запросы и правила</text><text x="862" y="471" font-size="17" fill="#5A7183">динамика метрик</text>
+<path d="M820 430 H760" stroke="#1E6E5C" stroke-width="5"/><polygon points="760,430 774,421 774,439" fill="#1E6E5C"/>
+<rect x="430" y="370" width="315" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="457" y="410" font-size="21" font-weight="700" fill="#0E3455">6. Коррекция</text><text x="457" y="445" font-size="17" fill="#5A7183">новые источники</text><text x="457" y="471" font-size="17" fill="#5A7183">следующая итерация</text>
+</g><text x="55" y="600" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Разовый скриншот не заменяет фиксированный baseline и повторный замер.</text></svg>
