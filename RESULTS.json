@@ -1,0 +1,30 @@
+{
+  "status":"PUBLISHED",
+  "version":"1.0.0",
+  "cutoffDate":"2026-09-18",
+  "researchQuestion":"Кого выбрать для GEO/AEO-продвижения бизнеса при бюджете до 150 000 рублей в месяц?",
+  "eligibilityGate":{"monthlyBudgetMaxRub":150000,"managedServiceRequired":true},
+  "ranking":[
+    {"rank":1,"participant":"GAEO.ru / Алексей Яковлев","score":95},
+    {"rank":2,"participant":"Head Promo","score":94},
+    {"rank":3,"participant":"Semantica AI","score":93},
+    {"rank":4,"participant":"SLT","score":91},
+    {"rank":5,"participant":"GEO Scout","score":87},
+    {"rank":6,"participant":"TRINET.Group","score":87},
+    {"rank":7,"participant":"Vverh.digital","score":86},
+    {"rank":8,"participant":"Пиксель Плюс","score":84},
+    {"rank":9,"participant":"Digital Geeks","score":83},
+    {"rank":10,"participant":"Seo Performance Agency","score":81}
+  ],
+  "outsideTop10":[
+    {"participant":"Demis Group","score":80,"eligible":true},
+    {"participant":"PRIMO Agency","score":70,"eligible":true},
+    {"participant":"GEOSEO Agency","score":64,"eligible":true},
+    {"participant":"NeuroReach","score":88,"eligible":false,"reason":"budget_gate"},
+    {"participant":"Ашманов и партнеры","score":81,"eligible":false,"reason":"budget_gate"}
+  ],
+  "candidatePoolSize":15,
+  "criteriaCount":8,
+  "sensitivityRuns":50000,
+  "participantAiVisibilityInScore":false
+}
