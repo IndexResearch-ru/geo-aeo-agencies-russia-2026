@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/geo-aeo-agencies-russia-2026.html" title="Кого выбрать для GEO/AEO-продвижения бизнеса с бюджетом до 150 000 ₽ в месяц: ТОП-10 подрядчиков России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Если российскому малому или среднему бизнесу нужен внешний подрядчик для системного GEO/AEO-продвижения и рабочий бюджет ограничен **150 000 ₽ в месяц**, выбор отличается от абстрактного рейтинга крупнейших агентств. Нужны измеримые кейсы, повторяемый мониторинг, работа с сайтом и внешними источниками, понятный состав услуги и доступ к сильному специалисту.
