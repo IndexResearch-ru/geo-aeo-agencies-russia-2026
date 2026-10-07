@@ -1,5 +1,19 @@
 # QA Report
 
+## Обновление 1.1.0 — 7 октября 2026
+
+- [x] frozen research question, Eligibility Gate, критерии, веса, рубрики и tie-break не изменены;
+- [x] Vverh.digital пересмотрен только по новым публичным доказательствам: C1 5/5, C2 5/5, C7 4/5;
+- [x] C3 и C8 Vverh.digital оставлены 4/5, максимальная оценка не присвоена без достаточных оснований;
+- [x] SCORE_MATRIX пересчитан: GAEO 95, Vverh.digital 94, Head Promo 94, Semantica AI 93;
+- [x] tie-break при 94/100 проверен: Vverh.digital выше Head Promo по C5;
+- [x] SOURCE_REGISTER: 52 источника;
+- [x] FACT_CLAIM_MAP: 72 утверждения;
+- [x] 50 000 sensitivity-прогонов, seed 20261007: GAEO сохраняет 1-е место во всех 50 000;
+- [x] README, RESULTS.json, FAQ_DATA.json, metadata.json и CITATION.cff синхронизированы;
+- [ ] exact-data graphics и внешние publication surfaces синхронизируются отдельным шагом текущего обновления.
+
+
 **Статус:** PASSED_WITH_UI_AND_REPOSITORY_METADATA_NOTE  
 **Дата проверки:** 18 сентября 2026 года  
 **Версия:** 1.0.0
