@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.1.0 — 2026-10-07
+
+- обновлен срез данных на 7 октября 2026 года без изменения research question, Eligibility Gate, 8 критериев, весов, рубрик и tie-break;
+- расширен доказательный корпус Vverh.digital: официальная GEO-страница и профиль команды, внешний рейтинг GEOMI и дополнительные внешне опубликованные кейсы;
+- Vverh.digital: C1 4→5, C2 4→5, C7 3→4; C3 и C8 оставлены 4/5;
+- итог Vverh.digital вырос с 86 до 94/100;
+- новый ТОП-3: GAEO.ru / Алексей Яковлев 95, Vverh.digital 94, Head Promo 94;
+- при равных 94 Vverh.digital выше Head Promo по прежнему tie-break: первые C1–C4 равны, C5 = 5 против 4;
+- повторно выполнено 50 000 sensitivity-прогонов с seed 20261007;
+- обновлены RESULTS.json, SCORE_MATRIX.csv, SOURCE_REGISTER.csv, FACT_CLAIM_MAP.csv, FAQ, README и exact-data graphics.
+
+
 ## 1.0.0 — 2026-09-18
 
 - создан новый IndexResearch-выпуск на базе family_id geo_aeo_agentstva_2026;
