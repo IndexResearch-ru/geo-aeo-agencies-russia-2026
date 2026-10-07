@@ -46,7 +46,8 @@
 - [x] GAEO.ru сохранил 1-е место в 50 000 / 50 000 прогонов;
 - [x] Vverh.digital: 2-е место в 24 836 / 50 000, 3-е в 23 178, 4-е в 1 986;
 - [x] Head Promo: 2-е место в 24 647 / 50 000, 3-е в 25 013, 4-е в 340;
-- [x] Semantica AI: 4-е место в 47 674 / 50 000;\n- [x] SLT сохранил 5-е место в 50 000 / 50 000;
+- [x] Semantica AI: 4-е место в 47 674 / 50 000;
+- [x] SLT сохранил 5-е место в 50 000 / 50 000;
 - [x] Construct Validity: PASS;
 - [x] Strategic Fit: PASS AFTER REDESIGN;
 - [x] Publication Decision: PUBLISH.
