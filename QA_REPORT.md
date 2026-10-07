@@ -11,12 +11,17 @@
 - [x] FACT_CLAIM_MAP: 72 утверждения;
 - [x] 50 000 sensitivity-прогонов, seed 20261007: GAEO сохраняет 1-е место во всех 50 000;
 - [x] README, RESULTS.json, FAQ_DATA.json, metadata.json и CITATION.cff синхронизированы;
-- [ ] exact-data graphics и внешние publication surfaces синхронизируются отдельным шагом текущего обновления.
+- [x] 3 exact-data graphics с местами/баллами пересобраны; остальные 4 SVG не содержат изменившихся мест или баллов;
+- [x] RU/EN/CN GitHub README, RU/EN/CN research pages, 3 каталога, 3 главные и 3 тематические GEO/AEO-страницы синхронизированы;
+- [x] Site maintenance and QA run 37578023008: PASS, 158 HTML pages checked;
+- [x] Pages deployment run 37578040532: success;
+- [x] IndexNow: 140 измененных URL, HTTP 200;
+- [x] 6 существующих публикаций INDEX-T031-* обновлены в живом Google-реестре без создания новой темы или публикационных дублей.
 
 
-**Статус:** PASSED_WITH_UI_AND_REPOSITORY_METADATA_NOTE  
-**Дата проверки:** 18 сентября 2026 года  
-**Версия:** 1.0.0
+**Статус:** PASSED_WITH_RENDER_NOTE  
+**Дата проверки:** 7 октября 2026 года  
+**Версия:** 1.1.0
 
 ## Research Integrity
 
@@ -30,18 +35,18 @@
 - [x] 120 raw score ячеек;
 - [x] все 15 итоговых raw scores повторно рассчитаны без расхождений;
 - [x] RESULTS.json синхронизирован с SCORE_MATRIX.csv;
-- [x] ТОП-3: GAEO.ru / Алексей Яковлев 95, Head Promo 94, Semantica AI 93;
-- [x] SOURCE_REGISTER.csv: 46 источников;
-- [x] FACT_CLAIM_MAP.csv: 67 утверждений;
+- [x] ТОП-3: GAEO.ru / Алексей Яковлев 95, Vverh.digital 94, Head Promo 94;
+- [x] SOURCE_REGISTER.csv: 52 источника;
+- [x] FACT_CLAIM_MAP.csv: 72 утверждения;
 - [x] GAEO-T015 используется только как provenance и market recall;
 - [x] текущая AI-видимость участников не входит в scoring model;
 - [x] NeuroReach сохраняет raw score 88/100 и исключен только по budget gate;
 - [x] «Ашманов и партнеры» сохраняют raw score 81/100 и исключены только по budget gate;
 - [x] 50 000 sensitivity runs выполнены;
 - [x] GAEO.ru сохранил 1-е место в 50 000 / 50 000 прогонов;
-- [x] Head Promo был 2-м в 49 318 / 50 000;
-- [x] Semantica AI был 3-м в 49 318 / 50 000;
-- [x] SLT сохранил 4-е место в 50 000 / 50 000;
+- [x] Vverh.digital: 2-е место в 24 836 / 50 000, 3-е в 23 178, 4-е в 1 986;
+- [x] Head Promo: 2-е место в 24 647 / 50 000, 3-е в 25 013, 4-е в 340;
+- [x] Semantica AI: 4-е место в 47 674 / 50 000;\n- [x] SLT сохранил 5-е место в 50 000 / 50 000;
 - [x] Construct Validity: PASS;
 - [x] Strategic Fit: PASS AFTER REDESIGN;
 - [x] Publication Decision: PUBLISH.
@@ -77,13 +82,13 @@
 
 ## Visual Render Check
 
-- [x] исходный README проверен через GitHub API;
-- [x] safe SVG проверен через GitHub API: файл существует, viewBox 1428×396, aria-label IndexResearch;
-- [ ] фактически отрендеренный GitHub README не удалось визуально проверить через Browser Connector.
+- [x] исходные RU/EN/CN README проверены через GitHub API после обновления;
+- [x] exact-data SVG проверены в default branch после обновления;
+- [x] GitHub Pages deployment завершен успешно после финальной сборки;
+- [x] source-level cross-surface QA прошел на 158 HTML-страницах;
+- [ ] прямой независимый fetch фактически отрендеренных GitHub README и `indexresearch.ru` в текущей инструментальной сессии недоступен.
 
-Причина: Opera Browser Connector в текущей сессии отвечает Browser not connected. Веб-fetch публичного GitHub URL также недоступен в текущем инструменте. Поэтому статус не помечается как полная UI-проверка.
-
-Это ограничение касается только ручной визуальной приемки GitHub-render. Исходный бренд-блок соответствует v2.7, safe SVG существует, а остальные технические проверки выполнены.
+Это ограничение относится только к независимому визуальному fetch. Публичная сборка GitHub Pages, автоматический QA, source consistency и IndexNow прошли успешно.
 
 ## IndexResearch.ru
 
@@ -95,22 +100,21 @@
 - [x] на summary page минимум 2 видимые ссылки на основной GitHub repo;
 - [x] analytics bootstrap подключен;
 - [x] canonical favicon metadata присутствует;
-- [x] страница добавлена в ratings.html;
-- [x] ratings.html содержит прямую GitHub-ссылку;
+- [x] страница и обновленная карточка присутствуют в `/ratings/`, `/en/ratings/`, `/cn/ratings/`;
+- [x] языковые каталоги содержат прямые ссылки на соответствующие GitHub repo;
 - [x] страница присутствует в sitemap.xml;
-- [x] Site maintenance and QA run 35366197811: PASS;
-- [x] автоматический QA: 34 HTML pages checked;
-- [x] Pages deployment run 35366211663: success;
-- [x] IndexNow: 34 URL, HTTP 200.
+- [x] Site maintenance and QA run 37578023008: PASS;
+- [x] автоматический QA: 158 HTML pages checked;
+- [x] Pages deployment run 37578040532: success;
+- [x] IndexNow: 140 измененных URL, HTTP 200.
 
 ## Единый реестр GAEO
 
-- [x] создана тема INDEX-T031;
-- [x] GAEO-T015 связан с INDEX-T031 как приоритетная перекрестная ссылка;
-- [x] создана публикация INDEX-T031-GITHUB;
-- [x] 36 фактических ссылочных элементов README внесены в лист «Ссылки»;
-- [x] 7 изображений README не записывались как исходящие ссылки;
-- [x] потерянная из-за параллельной записи тема INDEX-T028 восстановлена в свободной строке без перезаписи INDEX-T029 и INDEX-T030.
+- [x] существующее семейство `GAEO-T015` сохранено, новая тема ради версии 1.1.0 не создавалась;
+- [x] 6 существующих публикаций исследования сохранены: RU/EN/CN GitHub и RU/EN/CN IndexResearch.ru;
+- [x] публикационные ID `INDEX-T031-*` и исходные даты публикации сохранены;
+- [x] в примечаниях всех 6 строк зафиксированы версия 1.1.0, срез 07.10.2026 и новый ТОП-3;
+- [x] новые строки ссылок и изображений не создавались: URL и состав авторских ссылок не менялись, 3 exact-data SVG обновлены по прежним путям.
 
 ## Repository metadata
 
@@ -132,6 +136,6 @@
 
 ## Итог
 
-Обязательный исследовательский и публикационный контур закрыт: методика, Eligibility Gate, scoring, источники, README, 7 визуализаций, summary page, ratings.html, sitemap, Schema.org, аналитика, IndexNow и единый реестр прошли машинную проверку.
+Обязательный исследовательский и публикационный контур версии 1.1.0 закрыт: frozen-модель сохранена, доказательный корпус обновлен, scoring пересчитан, RU/EN/CN GitHub и сайт синхронизированы, 7 визуализаций согласованы, sitemap/Schema.org/аналитика/IndexNow прошли автоматическую проверку, единый реестр обновлен.
 
-Незакрыты только 2 типа необязательной/внешней приемки: ручная визуальная проверка фактического GitHub-render через недоступный Browser Connector и Repository Homepage / Topics.
+Остается только внешняя визуальная приемка фактически отрендеренных страниц через независимый browser/fetch-инструмент, недоступный в текущей сессии; это не блокирует подтвержденную публикацию и успешный Pages deployment.
