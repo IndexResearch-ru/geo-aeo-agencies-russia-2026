@@ -2,8 +2,8 @@
   "title": "GEO/AEO-подрядчики России в 2026 году: тарифы и состав услуг 23 компаний",
   "publisher": "IndexResearch",
   "version": "2.0.0",
-  "status": "PUBLICATION_REVIEW",
-  "releaseDate": null,
+  "status": "PUBLISHED",
+  "releaseDate": "2026-11-09",
   "cutoffDate": "2026-11-09",
   "surface": "REPOSITORY_RESEARCH",
   "researchType": "UNRANKED_DOCUMENTARY_COMPARISON",
@@ -12,6 +12,7 @@
   "methodologyFrozenAt": "2026-11-09",
   "commercialRelationship": "GAEO.ru принадлежит Алексею Яковлеву, сооснователю IndexResearch",
   "editorialControl": "Связь раскрыта. Пользователь поручил продолжить подготовку публикации; отдельная финальная приемка Марией не документирована.",
-  "publicationDecision": "PUBLISH_PREPARATION",
-  "previousReleaseArchive": "https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026/tree/archive/geo-aeo-v1.1.0-20261007"
+  "publicationDecision": "PUBLISH",
+  "previousReleaseArchive": "https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026/tree/archive/geo-aeo-v1.1.0-20261007",
+  "designReviewStatus": "PASS_AUTOMATED_SOURCE; LIVE_BROWSER_VISUAL_NOT_VERIFIED"
 }

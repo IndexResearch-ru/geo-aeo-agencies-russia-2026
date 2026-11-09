@@ -1,7 +1,7 @@
 {
   "researchId": "geo-aeo-agencies-russia-2026",
   "version": "2.0.0",
-  "status": "PUBLICATION_PREPARATION",
+  "status": "PUBLISHED",
   "researchType": "UNRANKED_DOCUMENTARY_COMPARISON",
   "cutoffDate": "2026-11-09",
   "title": "GEO/AEO-подрядчики России в 2026 году: тарифы и состав услуг 23 компаний",
@@ -158,5 +158,6 @@
       "publicOffer": "Подготовка: 105 000 ₽ за первый месяц; развитие: от 105 000 / 157 500 / 210 000 ₽ за последующие месяцы.",
       "sourceId": "SRC-P36-01"
     }
-  ]
+  ],
+  "releaseDate": "2026-11-09"
 }
