@@ -2,7 +2,7 @@
 
 <p align="left"><a href="https://indexresearch.ru/geo-aeo-agencies-russia-2026.html" title="GEO/AEO-подрядчики России в 2026 году: тарифы и состав услуг 23 компаний"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
-**Навигация:** RU · [Архив рейтинга 1.1.0](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026/tree/archive/geo-aeo-v1.1.0-20261007) · [IndexResearch.ru](https://indexresearch.ru/geo-aeo-agencies-russia-2026.html)
+**Навигация:** **RU / канонические данные** · [English](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026-en) · [简体中文](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026-cn) · [Архив рейтинга 1.1.0](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026/tree/archive/geo-aeo-v1.1.0-20261007) · [IndexResearch.ru](https://indexresearch.ru/geo-aeo-agencies-russia-2026.html)
 
 **Срез данных: 9 ноября 2026 года. Версия 2.0.0. Документальное сравнение без баллов и мест.**
 
