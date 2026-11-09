@@ -1,73 +1,42 @@
-claim_id,participant,claim,source_ids,confidence,used_in_readme,used_in_score,notes
-C001,"GAEO.ru / Алексей Яковлев","GAEO.ru публично продает GEO/AEO как самостоятельную персональную практику",S001,HIGH,TRUE,TRUE,""
-C002,"GAEO.ru / Алексей Яковлев","На дату среза 07.10.2026 стартовый тариф GEO составлял от 49 900 руб. в месяц (с 06.11.2026 цена изменена)",S001,HIGH,TRUE,TRUE,"Текущий тариф на дату среза"
-C003,"GAEO.ru / Алексей Яковлев","Открытый кейс Преп-Центра фиксирует рост BMR с 0 до 30% и 6 оплативших клиентов за 1,5 месяца",S002,HIGH,TRUE,TRUE,"Кейс опубликован связанной практикой, не независимый аудит"
-C004,"GAEO.ru / Алексей Яковлев","GAEO раскрывает работу с сайтом, контентом, внешними публикациями, репутацией и мониторингом",S001;S003,HIGH,TRUE,TRUE,""
-C005,"GAEO.ru / Алексей Яковлев","Проекты ведутся при непосредственном участии Алексея Яковлева",S001,HIGH,TRUE,TRUE,""
-C006,"GAEO-T015","Августовский рейтинг GAEO-T015 использован как provenance и market recall, старые места не переносятся",S004;S005;S006;S007,HIGH,TRUE,FALSE,""
-C007,"Head Promo","Head Promo публикует отдельную услугу GEO-продвижения в нейросетях",S009,HIGH,TRUE,TRUE,""
-C008,"Head Promo","Тариф Тест стоит 98 000 руб. в месяц и проходит бюджетный gate",S009,HIGH,TRUE,TRUE,""
-C009,"Head Promo","Кейс Clatch использует 35 запросов и повторные замеры в нескольких нейросетях",S010,HIGH,TRUE,TRUE,""
-C010,"Head Promo","В кейсе Clatch зафиксирован рост видимости по отдельным нейросетям и рост цитирования сайта",S010,HIGH,TRUE,TRUE,""
-C011,"Head Promo","Владимир Назаров публично связан со стратегией GEO-направления Head Promo",S011,HIGH,TRUE,TRUE,""
-C012,"Head Promo","Внешний отраслевой рейтинг фиксирует 10 публичных GEO-кейсов Head Promo",S008,HIGH,TRUE,TRUE,""
-C013,"Semantica AI","Semantica AI является специализированной GEO/AI-практикой с собственными кейсами и аналитикой",S012;S013;S014,HIGH,TRUE,TRUE,""
-C014,"Semantica AI","Кейс iKomek фиксирует рост AI-видимости с 0,8% до 42,5%",S012,HIGH,TRUE,TRUE,""
-C015,"Semantica AI","В iKomek использовались 180 промптов в 7 нейросетях",S012,HIGH,TRUE,TRUE,""
-C016,"Semantica AI","Кейс iKomek связывает работу с 406 упоминаниями и ростом поискового трафика на 45,6%",S012,HIGH,TRUE,TRUE,""
-C017,"Semantica AI","Технический кейс Скульптор раскрывает краулинг, structured data и доступность данных для AI",S013,HIGH,TRUE,TRUE,""
-C018,"Semantica AI","Внешний отраслевой листинг указывает стартовую стоимость около 40 000 руб. в месяц",S008,MEDIUM,TRUE,TRUE,"Внешняя рыночная цена; перед договором перепроверять"
-C019,"SLT","SLT публикует крупное исследование примерно 8 000 ответов нейросетей, 10 000 источников и 2 000 запросов",S015,HIGH,TRUE,TRUE,""
-C020,"SLT","У SLT есть несколько измеримых GEO-кейсов для металлообрабатывающих компаний",S016;S017;S018,HIGH,TRUE,TRUE,""
-C021,"SLT","Кейс COMETAL фиксирует рост брендового трафика на 51% и органики на 35% за 3 месяца",S017,HIGH,TRUE,TRUE,""
-C022,"SLT","Внешний отраслевой листинг указывает стартовую стоимость около 120 000 руб. в месяц",S008,MEDIUM,TRUE,TRUE,""
-C023,"GEO Scout","GEO Scout публикует управляемый GEO-спринт как отдельную услугу",S019,HIGH,TRUE,TRUE,""
-C024,"GEO Scout","Managed GEO имеет варианты первого спринта 90 000 и 140 000 руб., оба укладываются в gate",S019,HIGH,TRUE,TRUE,""
-C025,"GEO Scout","GEO Scout заявляет мониторинг 12 AI-провайдеров и цикл мониторинг → действия → контент → измерение",S020,HIGH,TRUE,TRUE,""
-C026,"GEO Scout","База знаний раскрывает работу с источниками, Citation Share и кампаниями",S021,HIGH,TRUE,TRUE,""
-C027,"GEO Scout","Опубликован кейс роста AI-видимости с 0 до 46% за 10 дней",S023,HIGH,TRUE,TRUE,"Собственный кейс"
-C028,"GEO Scout","Публичные тарифы платформы и managed-услуги делают условия хорошо проверяемыми",S019;S022,HIGH,TRUE,TRUE,""
-C029,"TRINET.Group","TRINET публикует комплексное GEO-продвижение от 120 000 руб. в месяц",S024,HIGH,TRUE,TRUE,""
-C030,"TRINET.Group","На странице GEO опубликованы несколько измеримых результатов, включая +128% AI-видимости и +506 запросов с сайтом как источником",S024,HIGH,TRUE,TRUE,""
-C031,"TRINET.Group","Публичный процесс включает сайт, контент, внешние источники и мониторинг",S024,HIGH,TRUE,TRUE,""
-C032,"Vverh.digital","Внешний кейс Vverh.digital фиксирует рост видимости с 0 до 40,51% за 12 недель",S028,HIGH,TRUE,TRUE,"Внешний хостинг кейса"
-C033,"Vverh.digital","Максим Фомин публично связан с GEO-направлением и методическими материалами Vverh.digital",S028;S029,HIGH,TRUE,TRUE,""
-C034,"Vverh.digital","Внешний отраслевой листинг указывает стартовую стоимость около 80 000 руб. в месяц",S008,MEDIUM,TRUE,TRUE,""
-C035,"Пиксель Плюс","Пиксель Плюс публикует отдельные AEO/GEO-услуги и собственную методику измерения",S025;S026;S027,HIGH,TRUE,TRUE,""
-C036,"Пиксель Плюс","Тариф AEO Базовый начинается от 129 900 руб. в месяц и проходит gate",S025;S026,HIGH,TRUE,TRUE,"Более широкий AEO+GEO тариф выше лимита"
-C037,"Пиксель Плюс","Публичные тарифы предусматривают панели до 150 и 300 промптов",S026,HIGH,TRUE,TRUE,""
-C038,"Digital Geeks","Digital Geeks публикует GEO-услугу с сайтом, публикациями, отзывами и работой с личными брендами",S030,HIGH,TRUE,TRUE,""
-C039,"Digital Geeks","Тариф Старт начинается от 150 000 руб. в месяц и находится на границе gate",S030,HIGH,TRUE,TRUE,""
-C040,"Digital Geeks","Опубликован измеримый кейс производителя витаминов с позициями в Perplexity и Алисе",S031,HIGH,TRUE,TRUE,""
-C041,"Digital Geeks","Внешний отраслевой рейтинг фиксирует 10 публичных GEO-кейсов",S008,HIGH,TRUE,TRUE,""
-C042,"Seo Performance Agency","Seo Performance публикует GEO-оптимизацию от 100 000 руб. в месяц",S032,HIGH,TRUE,TRUE,""
-C043,"Seo Performance Agency","На главной странице GEO также заявлен от 84 000 руб. в месяц",S034,HIGH,TRUE,TRUE,""
-C044,"Seo Performance Agency","Workspace-кейс фиксирует рост видимости бренда с 3% до 49% за 3 месяца",S033,HIGH,TRUE,TRUE,""
-C045,"Seo Performance Agency","Кейс использует 6 кластеров запросов, PixelTools и ручную проверку ответов",S033,HIGH,TRUE,TRUE,""
-C046,"Demis Group","Demis Group публикует GEO-услугу и кейсовую статистику по 30+ сайтам",S035,HIGH,TRUE,TRUE,""
-C047,"Demis Group","Standalone GEO-пакет 137 000 руб. проходит gate при текстах клиента, под ключ стоит 152 000 руб.",S035,HIGH,TRUE,TRUE,""
-C048,"Demis Group","Публичная страница заявляет рост доли в нейроответах на 25% и рост нейротрафика до x10",S035,HIGH,TRUE,TRUE,"Агрегированные показатели"
-C049,"PRIMO Agency","PRIMO публикует пакеты 30 000, 70 000 и 130 000 руб.",S037,HIGH,TRUE,TRUE,""
-C050,"PRIMO Agency","Полный пакет включает аудит, стратегию, контент, размещение, мониторинг и корректировку",S037;S038,HIGH,TRUE,TRUE,""
-C051,"PRIMO Agency","В открытом корпусе измеримые клиентские GEO-кейсы раскрыты слабее лидеров",S037;S038,MEDIUM,TRUE,TRUE,"Ограничение относится к просмотренному корпусу"
-C052,"GEOSEO Agency","GEOSEO публикует стартовый тариф 79 000 руб. в месяц",S039,HIGH,TRUE,TRUE,""
-C053,"GEOSEO Agency","Методика включает entity blueprint, JSON-LD и технический GEO/AEO",S039;S040,HIGH,TRUE,TRUE,""
-C054,"GEOSEO Agency","Публично заявлен NDA-кейс с ростом видимости 12→37% и +42 заявками",S039,MEDIUM,TRUE,TRUE,"Нет раскрытого клиента; доказательность ниже открытых кейсов"
-C055,"NeuroReach","NeuroReach публикует несколько сильных измеримых GEO-кейсов",S041;S042;S043,HIGH,TRUE,TRUE,""
-C056,"NeuroReach","Кейс Eduson фиксирует рост видимости 35,61→56,80% по 138 формулировкам в 6 нейросетях",S041,HIGH,TRUE,TRUE,""
-C057,"NeuroReach","Кейс Полный Порядок фиксирует рост с 0 до 44,09% по 79 промптам в 6 нейросетях",S042,HIGH,TRUE,TRUE,""
-C058,"NeuroReach","Кейс i2CRM указывает бюджет 350 000 руб. в месяц",S043,HIGH,TRUE,TRUE,""
-C059,"NeuroReach","Внешний отраслевой листинг указывает стартовую стоимость около 300 000 руб. в месяц",S008,MEDIUM,TRUE,TRUE,""
-C060,"NeuroReach","NeuroReach не проходит бюджетный gate, при этом raw score остается 88/100",S043;S008;S044,HIGH,TRUE,TRUE,"Бюджетный gate заморожен до scoring"
-C061,"Ашманов и партнеры","Официальный сайт публикует GEO-продвижение от 180 000 руб. в месяц",S045,HIGH,TRUE,TRUE,""
-C062,"Ашманов и партнеры","Компания публикует подробную методику выбора GEO-подрядчика и требований к измерению",S046,HIGH,TRUE,TRUE,""
-C063,"Ашманов и партнеры","Компания не проходит бюджетный gate, raw score составляет 81/100",S045;S046,HIGH,TRUE,TRUE,""
-C064,"Методика","Eligibility Gate установлен до финального scoring: максимум 150 000 руб. в месяц для managed GEO",RESEARCH_CONTRACT.md;METHODOLOGY.md,HIGH,TRUE,FALSE,""
-C065,"Методика","Текущая AI-видимость самих участников не входит в scoring model",METHODOLOGY.md,HIGH,TRUE,FALSE,""
-C066,"Методика","Исследовательский вопрос был переработан до freeze после Strategic Fit Review",DESIGN_REVIEW.md,HIGH,TRUE,FALSE,""
-C067,"Конфликт интересов","Алексей Яковлев является участником рейтинга и сооснователем IndexResearch",CONFLICT_OF_INTEREST.md,HIGH,TRUE,FALSE,"Обязательное раскрытие"
-C068,"Vverh.digital","Официальная GEO-страница публикует отдельную услугу, тариф «Тест» от 86 000 руб. в пределах gate, тарифы «Бренд» от 162 000 и «Бренд и сайт» от 200 000 руб., состав работ, метрики и ежемесячный цикл измерения",S047,HIGH,TRUE,TRUE,"Основание для пересмотра C1 и C7 в версии 1.1.0; внешний GEOMI-листинг отдельно указывает старт от 80 000 руб."
-C069,"Vverh.digital","Максим Фомин указан генеральным директором и руководителем продвижения; на странице команды заявлено более 15 успешных GEO-проектов",S048,HIGH,TRUE,TRUE,"Подтверждает глубину специализации и founder-led формат"
-C070,"Vverh.digital","GEOMI фиксирует 7 опубликованных GEO-кейсов Vverh.digital и стартовую стоимость от 80 000 руб.",S008,HIGH,TRUE,TRUE,"Внешний отраслевой источник"
-C071,"Vverh.digital","В открытом корпусе есть несколько внешне опубликованных кейсов с периодом, baseline/retest и количественной динамикой",S028;S049;S050;S051;S052,HIGH,TRUE,TRUE,"Основание для C2=5 в версии 1.1.0"
-C072,"Методика","Версия 1.1.0 сохраняет frozen criteria, weights, rubrics и Eligibility Gate; изменены только доказательный корпус и raw scores по тому же правилу",METHODOLOGY.md;CHANGELOG.md,HIGH,TRUE,FALSE,"Октябрьский evidence refresh"
+claim_id,candidate_id,claim_summary,source_url,source_snapshot_age,status,related_offer_ids
+CLAIM-P01,P01,"GAEO: 3 самостоятельных тарифа; базовый предполагает ТЗ для команды клиента, средний — создание контента, старший — собственное внедрение и гарантии по договору.",https://gaeo.ru/tarify/,~1 день,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P01-T01;P01-T02;P01-T03
+CLAIM-P02,P02,"Низший тариф содержит рекомендации по сайту, собственное внедрение заявлено для Бренда/Масштаба. Альтернативная официальная страница описывает другое число промптов.",https://vverh.digital/geo-prodvizhenie/,~5 дней,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P02-T01;P02-T02;P02-T03
+CLAIM-P03,P03,"Ежемесячные Тест/Бренд/Корпоративный различаются по промптам, единицам контента, направлениям и ссылочным работам.",https://head-promo.ru/geo-prodvizhenie-v-gemini/,~3 дня,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P03-T01;P03-T02;P03-T03
+CLAIM-P04,P04,Официальная B2B-страница предусматривает платформу И агентство; состав и цена агентства рассчитываются индивидуально. Не путать с иным агентством SEMANTICA.,https://ai-semantica.com/ru/industries/b2b,~4 недели,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P04-T01;P04-T02
+CLAIM-P05,P05,SEO + GEO в портфеле SEO-тарифов; нижние тарифы SEO не являются отдельным управляемым GEO.,https://seolt.ru/services/seo/prodvizhenie-konsaltinga,~1 месяц,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P05-T01;P05-T02
+CLAIM-P06,P06,Спринт месяца 1 и платформа для месяцев 2+; публикации/технические работы далее оцениваются по запросу. Это разные единицы оплаты.,https://geoscout.pro/ru/managed-geo,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P06-T01;P06-T02;P06-T03;P06-T04
+CLAIM-P07,P07,Опубликован нижний месячный ориентир комплексной услуги; точные объемы и внешние платежи остаются предметом предложения.,https://trinet.ru/services/geo-prodvizhenie/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P07-T01
+CLAIM-P08,P08,Опубликованы разные комбинации AEO+GEO и SEO+AEO+GEO. Цены прямо указаны БЕЗ НДС.,https://pixelplus.ru/geo/,~1 неделя,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P08-T01;P08-T02
+CLAIM-P09,P09,Два тарифных уровня «Старт» и «Продвинутый». Общий список работ не доказывает включение каждой из них в младший пакет.,https://digitalgeeks.ru/generative-engine-optimization/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P09-T01;P09-T02
+CLAIM-P10,P10,GEO от 100000; аналитика и упоминания имеют отдельные ценовые строки. Архивные 84000 не подтверждены этим текстом.,https://seo-performance.ru/geo-ceny/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P10-T01;P10-T02;P10-T03
+CLAIM-P11,P11,Часть тарифов требует подключения SEO; самостоятельный Мегатрон с клиентскими текстами и более дорогой вариант под ключ. В таблице также встречается 95900 с неоднозначным контекстом.,https://www.demis.ru/services/geo-prodvizhenie-saytov/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P11-T01;P11-T02;P11-T03
+CLAIM-P12,P12,"Базовый, расширенный и полный пакеты ежемесячные. Полный заявляет PR-публикации и команду, но имеет цену «от».",https://primo.agency/prodvizhenie-v-nejrosetyah,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P12-T01;P12-T02;P12-T03
+CLAIM-P13,P13,Официальная B2B-страница содержит 3 пакета с месячными ценами и разным объемом внешних источников.,https://geoseoagency.ru/geo-aeo-prodvizhenie-b2b/,~2 недели,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P13-T01;P13-T02;P13-T03
+CLAIM-P14,P14,При открытии сайта была ошибка таймаута; индексированная официальная страница указывает минимальный бюджет 300000 ₽/мес.,https://neuroreach.ru/,~2 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P14-T01
+CLAIM-P15,P15,"Официальная страница указывает старт цены 180000 рублей, но не закрепляет явно единицу «в месяц» рядом с ценой.",https://www.ashmanov.com/seo-prodvizhenie/generative-optimization/,~1 месяц,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P15-T01
+CLAIM-P16,P16,"GEO от 100000 ₽/мес.; контент, внешняя стратегия и внедрение могут оплачиваться отдельно; слово «при необходимости» обязательно сохранить.",https://kokoc.com/seo-prodvijenie-saytov/v-nejrosetyah/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P16-T01;P16-T02;P16-T03
+CLAIM-P17,P17,"Старт и Бизнес: разные объемы статей, мониторинга и бренд-линкбилдинга. Рядом с ценой не указана единица «в месяц».",https://idea-promotion.ru/service/geo-ai/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P17-T01;P17-T02
+CLAIM-P20,P20,Управление: тексты по ТЗ пишет клиент; Базовый: агентство создает тексты; ежемесячная единица указана.,https://d-kovalev.ru/service/geo-i-aeo-prodvizhenie/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P20-T01;P20-T02;P20-T03
+CLAIM-P21,P21,"Индивидуальная смета от 90790 руб.; единица оплаты в ценовой строке не указана, автоматическая 3-месячная смета недопустима.",https://evrica.marketing/uslugi/geo-prodvizheniye-saytov/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P21-T01
+CLAIM-P22,P22,"Старый снимок показывает 30К+10К, 45К+20К, 100К+50–100К (отдельно для внешних размещений); индекс с другой датой показывает 45000,70000,от170000. Цены не объединять.",https://www.altera-media.com/services/geo/,старый снимок ~3 месяца; другой индекс ~1 месяц,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P22-T01;P22-T02;P22-T03;P22-T04;P22-T05;P22-T06
+CLAIM-P23,P23,Start/Optima/Large различаются по набору GEO/SEO и аналитики. Цена «от» в рублях без явной единицы «месяц» рядом с суммой.,https://dojo-media.ru/geolanding,~3 месяца; альтернативная официальная страница ~1 месяц,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P23-T01;P23-T02;P23-T03
+CLAIM-P35,P35,От 75000 ₽/мес. на главной относится к SEO и нейровыдаче в группе услуг; состав отдельного GEO-пакета этим не доказан.,https://redbee.ru/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P35-T01
+CLAIM-P36,P36,"Подготовка на 1 месяц за 105000 ₽; этап ежемесячного развития — 105000/157500/210000 ₽, внешние материалы и мониторинг по пакетам.",https://www.reaspekt.ru/services/geo-prodvizhenie-saytov/,~3 месяца,OFFICIAL_SITE_STATEMENT_IN_INDEX; NOT VERIFIED CONTRACT,P36-T01;P36-T02;P36-T03;P36-T04
+CLAIM-ISS-01,P02,Тест: 50 промптов и 4 материала vs 15 промптов и 20 часов,https://vverh.digital/geo-prodvizhenie/ | https://vverh.digital/geo-prodvizhenie-ai/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P02-T01;P02-T02;P02-T03
+CLAIM-ISS-02,P04,У Semantica AI обнаружена отдельная официальная модель агентского сопровождения,https://ai-semantica.com/ru/industries/b2b,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P04-T01;P04-T02
+CLAIM-ISS-03,P06,"Спринт 90000/140000 за месяц 1, месяцы 2+ — подписка и работы по запросу",https://geoscout.pro/ru/managed-geo,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P06-T01;P06-T02;P06-T03;P06-T04
+CLAIM-ISS-04,P08,AEO+GEO 179900 и SEO+AEO+GEO 195900 указаны без НДС,https://pixelplus.ru/geo/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P08-T01;P08-T02
+CLAIM-ISS-05,P10,Предыдущее 84000 не найдено; официальная страница показывает GEO от 100000,https://seo-performance.ru/geo-ceny/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P10-T01;P10-T02;P10-T03
+CLAIM-ISS-06,P11,"Часть вариантов требует SEO; 137000 с текстами клиента, под ключ 152000; в таблице есть 95900",https://www.demis.ru/services/geo-prodvizhenie-saytov/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P11-T01;P11-T02;P11-T03
+CLAIM-ISS-07,P13,"Старт 84900 с 1 публикацией, Оптимум 169500 с 2–3 внешними размещениями",https://geoseoagency.ru/geo-aeo-prodvizhenie-b2b/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P13-T01;P13-T02;P13-T03
+CLAIM-ISS-08,P15,"Официально от 180000 руб., но единица месяц рядом с числом не зафиксирована",https://www.ashmanov.com/seo-prodvizhenie/generative-optimization/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P15-T01
+CLAIM-ISS-09,P16,"Контент, внешняя стратегия, внедрение указаны дополнительно при необходимости",https://kokoc.com/seo-prodvijenie-saytov/v-nejrosetyah/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P16-T01;P16-T02;P16-T03
+CLAIM-ISS-10,P17,100000/140000 руб. без однозначной месячной единицы возле цен,https://idea-promotion.ru/service/geo-ai/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P17-T01;P17-T02
+CLAIM-ISS-11,P20,Управление 90000: тексты клиентские; Базовый 160000: агентство создает 10 материалов,https://d-kovalev.ru/service/geo-i-aeo-prodvizhenie/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P20-T01;P20-T02;P20-T03
+CLAIM-ISS-12,P21,"от 90790, проектная смета без явной месячной единицы",https://evrica.marketing/uslugi/geo-prodvizheniye-saytov/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P21-T01
+CLAIM-ISS-13,P22,Снимок 30К+10К/45К+20К/100К+50–100К против 45000/70000/от170000,https://www.altera-media.com/services/geo/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P22-T01;P22-T02;P22-T03;P22-T04;P22-T05;P22-T06
+CLAIM-ISS-14,P23,"Start 85000, Optima 110000, Large 180000; без явной единицы месяца",https://dojo-media.ru/geolanding,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P23-T01;P23-T02;P23-T03
+CLAIM-ISS-15,P35,Общее SEO и нейровыдача от 75000 в месяц; чистый GEO не выделен,https://redbee.ru/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P35-T01
+CLAIM-ISS-16,P36,Подготовка 105000 за 1 месяц и дальнейшее развитие от 105000 в месяц,https://www.reaspekt.ru/services/geo-prodvizhenie-saytov/,MULTIPLE_REFERENCES,DISCREPANCY_OR_LIMITATION,P36-T01;P36-T02;P36-T03;P36-T04
+CLAIM-P05-STEP5,P05,"На официальной странице SLT «SEO + GEO» прямо указано от 200 000 ₽/мес.; это отдельный пакет, не обычный SEO за 120 000 ₽/мес.",https://seolt.ru/services/seo/prodvizhenie-sajta-prodazh,~1 month,OFFICIAL_PROVIDER_PRICE_LIST; PRICE_FROM_NOT_FULL_INVOICE,P05-T02
+CLAIM-P17-STEP5,P17,"На отдельной официальной странице цен Idea Promotion GEO «Старт» стоит 100 000 ₽/мес., «Бизнес» 140 000 ₽/мес.; полная 3-месячная смета не подтверждена.",https://idea-promotion.ru/prices/,~1 month,OFFICIAL_PROVIDER_PRICE_LIST; MONTH_UNIT_CONFIRMED,P17-T01;P17-T02

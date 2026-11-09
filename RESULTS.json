@@ -1,95 +1,162 @@
 {
-  "status": "UPDATED",
-  "version": "1.1.0",
-  "cutoffDate": "2026-10-07",
-  "researchQuestion": "Кого выбрать для GEO/AEO-продвижения бизнеса при бюджете до 150 000 рублей в месяц?",
-  "eligibilityGate": {
-    "monthlyBudgetMaxRub": 150000,
-    "managedServiceRequired": true
+  "researchId": "geo-aeo-agencies-russia-2026",
+  "version": "2.0.0",
+  "status": "PUBLICATION_PREPARATION",
+  "researchType": "UNRANKED_DOCUMENTARY_COMPARISON",
+  "cutoffDate": "2026-11-09",
+  "title": "GEO/AEO-подрядчики России в 2026 году: тарифы и состав услуг 23 компаний",
+  "ranking": null,
+  "scoringWeights": null,
+  "statistics": {
+    "companies": 23,
+    "offerObservations": 59,
+    "monthlyUnit": 30,
+    "unknownUnit": 20,
+    "otherUnits": 9,
+    "sourceRecords": 31,
+    "uniqueSourceURLs": 30,
+    "claims": 41,
+    "sourceLinks": 42,
+    "verifiedFullThreeMonthEstimates": 0
   },
-  "ranking": [
+  "companies": [
     {
-      "rank": 1,
-      "participant": "GAEO.ru / Алексей Яковлев",
-      "score": 95
+      "id": "P11",
+      "name": "Demis Group",
+      "publicOffer": "«Мегатрон» 137 000 ₽ при текстах клиента; под ключ 152 000 ₽ (единица оплаты не уточнена).",
+      "sourceId": "SRC-P11-01"
     },
     {
-      "rank": 2,
-      "participant": "Vverh.digital",
-      "score": 94
+      "id": "P09",
+      "name": "Digital Geeks",
+      "publicOffer": "«Старт» 150 000 ₽/мес.; «Продвинутый» 250 000 ₽/мес.",
+      "sourceId": "SRC-P09-01"
     },
     {
-      "rank": 3,
-      "participant": "Head Promo",
-      "score": 94
+      "id": "P23",
+      "name": "Dojo Media",
+      "publicOffer": "Start от 85 000 ₽, Optima от 110 000 ₽, Large от 180 000 ₽ (период не подтвержден).",
+      "sourceId": "SRC-P23-01"
     },
     {
-      "rank": 4,
-      "participant": "Semantica AI",
-      "score": 93
+      "id": "P21",
+      "name": "Evrica Marketing",
+      "publicOffer": "GEO-продвижение от 90 790 ₽ (период оплаты не указан).",
+      "sourceId": "SRC-P21-01"
     },
     {
-      "rank": 5,
-      "participant": "SLT",
-      "score": 91
+      "id": "P01",
+      "name": "GAEO.ru / Алексей Яковлев",
+      "publicOffer": "GEO-продвижение от 79 900 ₽/мес.; GEO + контент от 99 900 ₽/мес.; гарантии от 114 900 ₽/мес.",
+      "sourceId": "SRC-P01-01"
     },
     {
-      "rank": 6,
-      "participant": "GEO Scout",
-      "score": 87
+      "id": "P06",
+      "name": "GEO Scout",
+      "publicOffer": "Спринт первого месяца 90 000 или 140 000 ₽; затем подписка и работы по запросу.",
+      "sourceId": "SRC-P06-01"
     },
     {
-      "rank": 7,
-      "participant": "TRINET.Group",
-      "score": 87
+      "id": "P13",
+      "name": "GEOSEO Agency",
+      "publicOffer": "«Старт» 84 900 ₽/мес.; «Оптимум» 169 500 ₽/мес.; «Премиум» от 259 900 ₽/мес.",
+      "sourceId": "SRC-P13-01"
     },
     {
-      "rank": 8,
-      "participant": "Пиксель Плюс",
-      "score": 84
+      "id": "P03",
+      "name": "Head Promo",
+      "publicOffer": "«Тест» 98 000 ₽/мес.; «Бренд» 238 000 ₽/мес.; корпоративный 370 000 ₽/мес.",
+      "sourceId": "SRC-P03-01"
     },
     {
-      "rank": 9,
-      "participant": "Digital Geeks",
-      "score": 83
+      "id": "P17",
+      "name": "Idea Promotion",
+      "publicOffer": "«Старт» 100 000 ₽/мес.; «Бизнес» 140 000 ₽/мес.",
+      "sourceId": "SRC-P17-02"
     },
     {
-      "rank": 10,
-      "participant": "Seo Performance Agency",
-      "score": 81
+      "id": "P16",
+      "name": "Kokoc.com",
+      "publicOffer": "GEO от 100 000 ₽/мес.; внешняя стратегия от 30 000 ₽/мес.; контент по объему.",
+      "sourceId": "SRC-P16-01"
+    },
+    {
+      "id": "P14",
+      "name": "NeuroReach",
+      "publicOffer": "Минимальный бюджет от 300 000 ₽/мес.",
+      "sourceId": "SRC-P14-01"
+    },
+    {
+      "id": "P12",
+      "name": "PRIMO Agency",
+      "publicOffer": "«Базовый» от 30 000 ₽/мес.; «Расширенный» от 70 000 ₽/мес.; «Полный» от 130 000 ₽/мес.",
+      "sourceId": "SRC-P12-01"
+    },
+    {
+      "id": "P35",
+      "name": "Redbee",
+      "publicOffer": "SEO и нейровыдача от 75 000 ₽/мес.",
+      "sourceId": "SRC-P35-01"
+    },
+    {
+      "id": "P04",
+      "name": "Semantica AI",
+      "publicOffer": "Платформа: по тарифу; «платформа + агентство»: индивидуальная смета.",
+      "sourceId": "SRC-P04-01"
+    },
+    {
+      "id": "P10",
+      "name": "Seo Performance Agency",
+      "publicOffer": "GEO-оптимизация от 100 000 ₽ (период оплаты на странице не указан).",
+      "sourceId": "SRC-P10-01"
+    },
+    {
+      "id": "P05",
+      "name": "SLT",
+      "publicOffer": "SEO + GEO от 200 000 ₽/мес.",
+      "sourceId": "SRC-P05-02"
+    },
+    {
+      "id": "P07",
+      "name": "TRINET.Group",
+      "publicOffer": "Комплексное GEO от 120 000 ₽/мес.",
+      "sourceId": "SRC-P07-01"
+    },
+    {
+      "id": "P02",
+      "name": "Vverh.digital",
+      "publicOffer": "«Тест» 86 000 ₽/мес.; «Бренд» 162 000 ₽/мес.",
+      "sourceId": "SRC-P02-01"
+    },
+    {
+      "id": "P22",
+      "name": "Альтера-Медиа",
+      "publicOffer": "На одном официальном URL встречаются снимки 45 000 / 70 000 / от 170 000 ₽ и более ранние суммы с отдельными расходами.",
+      "sourceId": "SRC-P22-01"
+    },
+    {
+      "id": "P15",
+      "name": "Ашманов и партнеры",
+      "publicOffer": "GEO-оптимизация от 180 000 ₽ (период оплаты не подтвержден).",
+      "sourceId": "SRC-P15-01"
+    },
+    {
+      "id": "P08",
+      "name": "Пиксель Плюс",
+      "publicOffer": "AEO + GEO от 179 900 ₽/мес.; SEO + AEO + GEO от 195 900 ₽/мес.",
+      "sourceId": "SRC-P08-01"
+    },
+    {
+      "id": "P20",
+      "name": "РА Ковалевы",
+      "publicOffer": "«Управление» от 90 000 ₽/мес.; «Базовый» от 160 000 ₽/мес.; «Продвинутый» от 220 000 ₽/мес.",
+      "sourceId": "SRC-P20-01"
+    },
+    {
+      "id": "P36",
+      "name": "Реаспект",
+      "publicOffer": "Подготовка: 105 000 ₽ за первый месяц; развитие: от 105 000 / 157 500 / 210 000 ₽ за последующие месяцы.",
+      "sourceId": "SRC-P36-01"
     }
-  ],
-  "outsideTop10": [
-    {
-      "participant": "Demis Group",
-      "score": 80,
-      "eligible": true
-    },
-    {
-      "participant": "PRIMO Agency",
-      "score": 70,
-      "eligible": true
-    },
-    {
-      "participant": "GEOSEO Agency",
-      "score": 64,
-      "eligible": true
-    },
-    {
-      "participant": "NeuroReach",
-      "score": 88,
-      "eligible": false,
-      "reason": "budget_gate"
-    },
-    {
-      "participant": "Ашманов и партнеры",
-      "score": 81,
-      "eligible": false,
-      "reason": "budget_gate"
-    }
-  ],
-  "candidatePoolSize": 15,
-  "criteriaCount": 8,
-  "sensitivityRuns": 50000,
-  "participantAiVisibilityInScore": false
+  ]
 }
